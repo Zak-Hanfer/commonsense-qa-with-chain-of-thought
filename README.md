@@ -99,7 +99,7 @@ Each prompting strategy produces different reasoning patterns:
 
 ## 💡 Technologies Used
 
-- Python 3.8+
+- Kaggle
 - Hugging Face Transformers
 - Hugging Face Datasets
 - Jupyter Notebook
