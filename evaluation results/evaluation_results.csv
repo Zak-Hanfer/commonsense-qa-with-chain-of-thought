@@ -1,0 +1,11 @@
+question,ground_truth,baseline_pred,baseline_duration,baseline_tokens,zeroshot_cot_pred,zeroshot_cot_duration,zeroshot_cot_tokens,re_pred,re_duration,re_tokens,plan_and_solve_pred,plan_and_solve_duration,plan_and_solve_tokens
+"A revolving door is convenient for two direction travel, but it also serves as a security measure at a what?",A,C,9.145726180076599,1236,D,13.835069672266643,1869,A,15.830205476284027,2135,A,2.7372320175170897,371
+What do people aim to do at work?,A,B,1.5062856992085776,205,B,3.869202673435211,526,B,0.7719797690709432,104,B,1.5293602506319681,207
+Where would you find magazines along side many other printed works?,B,B,1.0351329088211059,140,B,3.12468462785085,422,B,2.4914095878601072,336,B,2.9680399696032205,401
+Where are  you likely to find a hamburger?,A,A,0.5048929333686829,67,A,3.8082876125971477,515,A,3.5848278482755025,485,A,1.8045731822649638,244
+James was looking for a good place to buy farmland.  Where might he look?,A,B,0.5977235833803812,80,A,5.820631575584412,786,B,1.851852838198344,251,A,1.5253587285677592,206
+What island country is ferret popular?,C,C,1.2586344838142396,170,C,4.37817163070043,592,C,4.10831180413564,556,C,30.657385329405468,4080
+In what Spanish speaking North American country can you get a great cup of coffee?,B,B,0.7410141626993815,100,B,3.11494935353597,423,B,3.219327962398529,437,B,3.2048027833302815,435
+What do animals do when an enemy is approaching?,D,D,1.2088499307632445,164,E,16.3222695906957,2212,D,11.466020901997885,1554,E,11.640079081058502,1581
+Reading newspaper one of many ways to practice your what?,A,A,1.323797309398651,179,B,10.258228572209676,1388,A,4.443006714185079,603,B,9.238155142466228,1256
+What do people typically do while playing guitar?,C,E,1.7133428613344828,233,E,3.877016588052114,527,E,1.9688979506492614,268,E,2.5237724423408507,343
